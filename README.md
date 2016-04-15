@@ -1,2 +1,2 @@
-# Alan.github-io
+# Alan.github.io
 Alan's Blog
